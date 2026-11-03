@@ -24,7 +24,7 @@ Before code, I spent 10+ years as a **visual artist and art teacher**. That back
 - **Databases:** PostgreSQL · MySQL · H2
 - **Frontend:** React · TanStack Query · Tailwind CSS · HTML · CSS
 - **Testing & quality:** JUnit 5 · Mockito · JaCoCo · pytest · Vitest · ESLint · Prettier
-- **Tools:** Git · GitHub Actions · Docker · Gradle · Maven · Vite · Figma
+- **Tools:** Git · GitHub Actions · Docker · Gradle · Maven · Vite 
 - **Currently learning:** Spring Boot · MongoDB
 
 ## Also
