@@ -1,6 +1,6 @@
 # Hi, I'm Eugenia 👋
 
-**Full-stack developer** based in Buenos Aires, Argentina 🇦🇷 — finishing a Programming degree at **Universidad Tecnológica Nacional (UTN)**.
+**Frontend developer** based in Buenos Aires, Argentina 🇦🇷 — finishing a Programming degree at **Universidad Tecnológica Nacional (UTN)**.
 
 Before code, I spent 10+ years as a **visual artist and art teacher**. That background shapes how I build: attention to visual detail, clear interfaces, and explaining technical work in plain language.
 
