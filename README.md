@@ -4,7 +4,7 @@
 
 Before code, I spent 10+ years as a **visual artist and art teacher**. That background shapes how I build: attention to visual detail, clear interfaces, and explaining technical work in plain language.
 
-- 🔭 Working with **Java**, **Python / FastAPI** and **React + TypeScript** · currently learning **Spring Boot**
+- 🔭 Working with **Javascript** / FastAPI** and **TypeScript** · currently learning **React**
 - 🧪 I care about **tests, clean architecture and readable code**
 - 🌎 Open to **remote** roles · Spanish (native) · English (C1)
 
